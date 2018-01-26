@@ -1,0 +1,21 @@
+#just going to ignore everything to start
+*
+
+#unignore c files
+!*.c
+
+#unignore header files
+!*.h
+
+#unignore Makefile
+!Makefile
+
+#unignore ASM files
+!*.asm
+
+#unignore this file (duh)
+!.gitignore
+
+#unignore README and licence
+!README.md
+!license.md
